@@ -6,7 +6,7 @@ const Header = ({ id }) => {
   return (
     <section className="showcase" id={id}>
       <div className="text-center">
-        <h1 className="px-5 text-lg">Hello there, I'm David Phan, a</h1>
+        <h1 className="px-5 text-lg">Hello there, I am David Phan, a</h1>
         <h1 className="pt-2 text-4xl font-bold sm:text-4xl md:text-6xl lg:text-7xl xl:text-9xl ">
           <a
             target="_blank"
