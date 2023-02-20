@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.cddf1772.css",
+    "main.js": "/portfolio-app/static/js/main.0490643c.js",
+    "static/media/PsDavidLogo.png": "/portfolio-app/static/media/PsDavidLogo.0743368568d8d11ab239.png",
+    "static/media/developerPC.png": "/portfolio-app/static/media/developerPC.f1ef42da56ba099f9285.png",
+    "static/media/DavidPResume2023.pdf": "/portfolio-app/static/media/DavidPResume2023.cf9018a526450388e96a.pdf",
+    "index.html": "/portfolio-app/index.html",
+    "main.cddf1772.css.map": "/portfolio-app/static/css/main.cddf1772.css.map",
+    "main.0490643c.js.map": "/portfolio-app/static/js/main.0490643c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cddf1772.css",
+    "static/js/main.0490643c.js"
+  ]
+}
