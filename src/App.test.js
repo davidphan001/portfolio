@@ -1,8 +1,8 @@
-import { render, screen } from "@testing-library/react";
-import App from "./App";
+import { render } from "@testing-library/react";
+import Header from "./components/Header";
 
-test("renders david link", () => {
-  render(<App />);
-  const linkElement = screen.getByText("David");
-  expect(linkElement).toBeInTheDocument();
+test("renders Header", () => {
+  const { queryByText } = render(<Header />);
+  const welcomeMessage = queryByText("Software Engineer");
+  expect(welcomeMessage).toBeInTheDocument();
 });
